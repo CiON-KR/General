@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @CiON-KR
+- Hi, I’m @CiON-KR
 - I’m currently learning Python
-- Now studying at Korea University
 - You can contact me by Telegram @cionkr
 
 <!---
