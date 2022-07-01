@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CiON-kr
-- 👀 I’m interested in Python, Blockchain, Blender, Social, etc
-- 🌱 I’m currently learning Python
-- 📫 You can contact me by Telegram @cionkr
+- 👋 Hi, I’m @CiON-KR
+- I’m currently learning Python
+- Now studying at Korea University
+- You can contact me by Telegram @cionkr
 
 <!---
 CiON-kr/CiON-kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
