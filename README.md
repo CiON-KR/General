@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=CiON&fontSize=70&fontAlignY=40)
-# :wave: Good day!
-#### I'm studying Digital management at Korea University Sejong Campus.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:9fb200,100:005702&height=250&section=header&text=CiON&fontSize=70&fontAlignY=40&fontColor=ffffff)
+# :wave: 안녕하세요
+> I'm studying Digital management at Korea University Sejong Campus.
   <br>
   
 ## :wrench: Language and Tools
