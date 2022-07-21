@@ -2,7 +2,7 @@
 # :wave: Good day!
 #### Studying Digital management at Korea University Sejong Campus.
 ### :wrench: Language and Tools
-#### - Python
+<img src="https://img.shields.io/badge/PYTHON-00599C?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 ### :mailbox: How to reach me
 #### - Telegram : CiON_KR
 
