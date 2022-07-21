@@ -3,9 +3,10 @@
 #### Studying Digital management at Korea University Sejong Campus.
 ### :wrench: Language and Tools
 <img src="https://img.shields.io/badge/PYTHON-00599C?style=flat-square&logo=Python&logoColor=white"/>
+
 ### :mailbox: How to reach me
 #### - Telegram : CiON_KR
 
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCiON-KR&count_bg=%230B83FF&title_bg=%23555555&icon=visualstudio.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCiON-KR&count_bg=%230042DD&title_bg=%23C80000&icon=github.svg&icon_color=%23FFFFFF&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
