@@ -1,8 +1,6 @@
-- Hi, I’m @CiON-KR
-- I’m currently learning Python
-- You can contact me by Telegram @CION_KR
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=CiON%20Korea&fontSize=70&fontAlignY=40)
+# Good day!
+### Studying Digital management at Korea University Sejong Campus.
 
-<!---
-CiON-kr/CiON-kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# How to reach me
+### Telegram : CiON_KR
